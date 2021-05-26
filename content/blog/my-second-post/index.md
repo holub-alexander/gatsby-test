@@ -11,3 +11,6 @@ egg yolk will be less rich."?
 ([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
 
 Yeah, I didn't either.
+
+![gatsby-icon](https://user-images.githubusercontent.com/83550928/119651002-28aa7e80-be2d-11eb-8707-2f00fd8bc568.png)
+
